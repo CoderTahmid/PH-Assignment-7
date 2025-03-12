@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co.com/Psf1KFZq/102851686.webp",
+        "name": "Virat Kohli",
+        "country": "India",
+        "position": "Batsman",
+        "batting_position": "Right-handed",
+        "balling_type": "N/A",
+        "price": 1200000
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co.com/pv2Z19kt/6778d1f345510-indias-stand-in-captain-jasprit-bumrah-in-frame-041510206-16x9-05-01-2025.jpg",
+        "name": "Jasprit Bumrah",
+        "country": "India",
+        "position": "Bowler",
+        "batting_position": "Right-handed",
+        "balling_type": "Fast Bowler",
+        "price": 950000
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co.com/y2Dnfpv/Untitled-design-12.jpg",
+        "name": "Ben Stokes",
+        "country": "England",
+        "position": "All-rounder",
+        "batting_position": "Left-handed",
+        "balling_type": "Fast-medium Bowler",
+        "price": 1100000
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co.com/JwFNNM0j/steve-smith-07-03-2022.jpg",
+        "name": "Steve Smith",
+        "country": "Australia",
+        "position": "Batsman",
+        "batting_position": "Right-handed",
+        "balling_type": "Leg-spin Bowler",
+        "price": 1050000
+    },
+    {
+        "id": 5,
+        "image": "https://i.ibb.co.com/9kWjTqxH/122334-mrzhodfazf-1561120923.jpg",
+        "name": "Rashid Khan",
+        "country": "Afghanistan",
+        "position": "Bowler",
+        "batting_position": "Right-handed",
+        "balling_type": "Leg-spin Bowler",
+        "price": 900000
+    },
+    {
+        "id": 6,
+        "image": "https://i.ibb.co.com/gbLfhD2Y/105251489.webp",
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "position": "Batsman",
+        "batting_position": "Right-handed",
+        "balling_type": "Off-spin Bowler",
+        "price": 1000000
+    },
+    {
+        "id": 7,
+        "image": "https://i.ibb.co.com/7x60YwDs/9ksdir1-shaheen-afridi-afp-625x300-09-September-23.webp",
+        "name": "Shaheen Afridi",
+        "country": "Pakistan",
+        "position": "Bowler",
+        "batting_position": "Left-handed",
+        "balling_type": "Fast Bowler",
+        "price": 850000
+    },
+    {
+        "id": 8,
+        "image": "https://i.ibb.co.com/R43tLHR1/136-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-copy-R.jpg",
+        "name": "Glenn Maxwell",
+        "country": "Australia",
+        "position": "All-rounder",
+        "batting_position": "Right-handed",
+        "balling_type": "Off-spin Bowler",
+        "price": 950000
+    },
+    {
+        "id": 9,
+        "image": "https://i.ibb.co.com/BHdXjj70/CRICKET-WC-2024-T20-USA-RSA-17-1718895239160-1718895257003.jpg",
+        "name": "Quinton de Kock",
+        "country": "South Africa",
+        "position": "Batsman",
+        "batting_position": "Left-handed",
+        "balling_type": "N/A",
+        "price": 980000
+    },
+    {
+        "id": 10,
+        "image": "https://i.ibb.co.com/CL1kWJg/Sakib20200101150806.jpg",
+        "name": "Shakib Al Hasan",
+        "country": "Bangladesh",
+        "position": "All-rounder",
+        "batting_position": "Left-handed",
+        "balling_type": "Slow left-arm orthodox",
+        "price": 970000
+    }
+]
